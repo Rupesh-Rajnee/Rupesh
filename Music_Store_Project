@@ -1,0 +1,9 @@
+The data available for the Project is stored in the Google Drive and reference is used by the Youtube channel
+
+-- Hf
+
+Create database Music_store;
+
+Use Music_store;
+
+Create table
